@@ -1,6 +1,6 @@
 # 🖌️ Tkinter Paint Application
 
-A simple yet feature-rich Paint application built using **Python**, **Tkinter**, and **Pillow (PIL)**. It supports freehand drawing, shape tools, erasing, undo/redo functionality, color selection, and saving your artwork as an image file.
+A simple yet Paint application built using **Python**, **Tkinter**, and **Pillow (PIL)**. It supports freehand drawing, shape tools, erasing, undo/redo functionality, color selection, and saving your artwork as an image file.
 
 ---
 
